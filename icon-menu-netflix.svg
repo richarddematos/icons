@@ -1,1 +1,13 @@
-<?xml version="1.0" ?><svg height="60px" version="1.1" viewBox="0 0 60 60" width="60px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title/><desc/><defs/><g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1"><g id="Social_icons" transform="translate(-922.000000, -1555.000000)"><g id="Netflix" transform="translate(922.000000, 1555.000000)"><path d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" fill="#FFFFFF" id="back"/><path d="M26.4405,47.28675 L26.4405,27.435 L33.1545,46.48575 C35.21775,46.25175 37.2855,46.03575 39.35775,45.82875 L39.35775,12 L33.915,12 L33.915,32.5605 L26.6745,12 L21,12 L21,48 L21.036,48 C22.836,47.7525 24.636,47.514 26.4405,47.28675" fill="#E50A13" id="Shape"/></g></g></g></svg>
+<?xml version="1.0" ?>
+<svg height="24px" version="1.1" viewBox="0 0 60 60" width="24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title/>
+  <desc/>
+  <defs/>
+  <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+    <g id="Social_icons" transform="translate(-922.000000, -1555.000000)">
+      <g id="Netflix" transform="translate(922.000000, 1555.000000)">
+        <path d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" fill="#FFFFFF" id="back"/><path d="M26.4405,47.28675 L26.4405,27.435 L33.1545,46.48575 C35.21775,46.25175 37.2855,46.03575 39.35775,45.82875 L39.35775,12 L33.915,12 L33.915,32.5605 L26.6745,12 L21,12 L21,48 L21.036,48 C22.836,47.7525 24.636,47.514 26.4405,47.28675" fill="#323232" id="Shape"/>
+      </g>
+    </g>
+  </g>
+</svg>
