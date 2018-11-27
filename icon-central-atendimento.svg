@@ -1,0 +1,12 @@
+<svg class="si-duo-message-dot" height="57px" version="1.1" viewBox="0 0 64 57" width="64px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title class=""/>
+  <defs class=""/>
+  <g class="" fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+    <g class="" id="Message-dot" stroke-width="2" transform="translate(1.000000, 1.000000)">
+      <path class="si-duo-message-dot-box si-duo-message-dot-stroke si-duo-message-dot-base si-duo-stroke si-duo-base" d="M62,39 L33.75,39 L13,53 L16,39 L0,39 L0,0 L62,0 L62,39 Z" id="Shape" stroke="#6D6E71" style=""/>
+      <circle class="si-duo-message-dot-dot-left si-duo-message-dot-dot si-duo-message-dot-stroke si-duo-message-dot-accent si-duo-stroke si-duo-accent" cx="17" cy="20" id="Oval" r="2" stroke="#1396D7" style=""/>
+      <circle class="si-duo-message-dot-dot-middle si-duo-message-dot-dot si-duo-message-dot-stroke si-duo-message-dot-accent si-duo-stroke si-duo-accent" cx="31" cy="20" id="Oval" r="2" stroke="#1396D7" style=""/>
+      <circle class="si-duo-message-dot-dot-right si-duo-message-dot-dot si-duo-message-dot-stroke si-duo-message-dot-accent si-duo-stroke si-duo-accent" cx="45" cy="20" id="Oval" r="2" stroke="#1396D7" style=""/>
+    </g>
+  </g>
+</svg>
